@@ -11,4 +11,5 @@ Here are my Minecraft mod projects:
 * Need Config? <sup>Private</sup> - One last Config API
 
 And here are my Discord not projects:
+* [Keymey](https://github.com/u-lumaa/keymey) - My first Discord bot ever. Written for the 3rd time.
 * Subcords <sup>Soon public</sup> - Reddit but it's on Discord
