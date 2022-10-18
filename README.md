@@ -5,7 +5,7 @@
 Developer with an empty head.  
 Développeur avec la tête vide.  
 
-[Allez sur mon site web](https://lumination.brebond.com)
+[Allez sur mon site web](https://lumination.brebond.com) - Et regardez son [repo](https://github.com/u-lumaa/lumination.brebond.com)
 
 Here are my Minecraft mod projects:
 * [The Backrooms Mod](https://github.com/u-lumaa/BackroomsMod) - A mod that adds The Backrooms to Minecraft
