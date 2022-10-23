@@ -30,3 +30,31 @@
 | Need Config?         | ❌    | ❌      | ❌      | Coming soon      |  
   
 *`*` maybe works*
+
+## How to setup my JavaScript Discord bots
+*We will use [Keymey](https://github.com/u-lumaa/Keymey) as an example*
+
+***
+
+- Install [NodeJS](https://nodejs.org/en/download/) v16.9 (*NPM is included with NodeJS*)
+- Check if NodeJS and NPM installed properly by opening a command prompt and typing `node --version` and `npm version`
+  - You should get a result like this:  
+![Versions](https://user-images.githubusercontent.com/93350976/197408646-01520267-3ab9-4cbc-ac10-e91985dd30e3.png)
+- Download the [GitHub .zip file](https://github.com/u-lumaa/Keymey/archive/refs/heads/master.zip) and extract it
+- Create the config file
+  - Go in `bot_folder/functions` and create `config.json`
+  - Then write [this](#configjson-content) with your information 
+
+
+- Open a command prompt and type `cd [folder path]` then enter
+- Then type `node main`
+- Your command prompt should say that it's ready!
+
+# config.json Content
+```json
+{
+    "ownerId": "Discord ID",
+    "token": "Bot Token",
+    "devPrefix": "Developper Prefix (to create commands)",
+}
+```
