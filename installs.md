@@ -25,7 +25,7 @@
 
 | Mod \ Version        | 1.19   | 1.19.1  | 1.19.2  | 1.20   |
 |----------------------|--------|---------|---------|--------|
-| The Backrooms        | ❌    | ✔️      | ✔️*     | Coming soon      |
+| The Backrooms        | ❌    | ✔️      | ✔️      | Coming soon      |
 | Your Name Your Death | ❌    | ✔️*     | ✔️      | Coming soon      |
 | Need Config?         | ❌    | ❌      | ❌      | Coming soon      |  
   
