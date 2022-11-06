@@ -31,7 +31,7 @@
   
 *`*` fonctionne peut-être*
 
-## Comment mettre en place mes Bots Discord JavaScript
+# Comment mettre en place mes Bots Discord JavaScript
 *Pour cette exemple, nous utiliserons le bot [Keymey](https://github.com/u-lumaa/Keymey)*
 
 ***
@@ -50,7 +50,9 @@
 - Puis tapez `node main`
 - Votre invite de commande devrait vous dire que c'est Ready !
 
-# Contenu config.json
+* * *
+
+### Contenu config.json
 ```json
 {
     "ownerId": "Identifiant Discord",
