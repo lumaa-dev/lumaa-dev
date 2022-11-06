@@ -31,7 +31,7 @@
   
 *`*` maybe works*
 
-## How to setup my JavaScript Discord bots
+# How to setup my JavaScript Discord bots
 *We will use [Keymey](https://github.com/u-lumaa/Keymey) as an example*
 
 ***
@@ -50,7 +50,9 @@
 - Then type `node main`
 - Your command prompt should say that it's ready!
 
-# config.json Content
+* * *
+
+### config.json Content
 ```json
 {
     "ownerId": "Discord ID",
