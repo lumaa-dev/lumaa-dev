@@ -5,4 +5,4 @@
   <sup>Developer with an empty head.</sup>
 </div>
 
-I have a website, but it's 🇫🇷 French: https://lumination.brebond.com/
+I have a website, but it's 🇫🇷 French for now: https://lumination.brebond.com/
