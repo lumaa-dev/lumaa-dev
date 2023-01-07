@@ -21,7 +21,7 @@ After all of this, I made a library mod [LibuLib](https://modrinth.com/mod/libu)
 
 **And here we are today.**
 
-# What will I do?
+## What will I do?
 What I will do:
 - An english version of [my website](https://lumination.brebond.com)
 - A config library (Inspired by [YACL](https://github.com/isXander/YetAnotherConfigLib))
@@ -32,7 +32,7 @@ What I want to do:
 - Music (in general)
 - A game in Unity (C#)
 
-# Socials
+## Socials
 You can directly click on them.  
 [![Modrinth Username](https://img.shields.io/badge/Modrinth-Lumaa-brightgreen)](https://modrinth.com/user/Lumaa)
 [![Discord Server](https://img.shields.io/discord/1033451342984908900?label=Support%20Discord&logo=discord)](https://discord.gg/Rqpn3C7yR5)
