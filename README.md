@@ -24,7 +24,7 @@ After all of this, I made a library mod [LibuLib](https://modrinth.com/mod/libu)
 ## What will I do?
 What I will do:
 - An english version of [my website](https://lumination.brebond.com)
-- A config library (Inspired by [YACL](https://github.com/isXander/YetAnotherConfigLib))
+- A config library (Like [YACL](https://github.com/isXander/YetAnotherConfigLib))
 - Custom [BackroomsMod Generation](https://trello.com/c/oeXBwsgv)
 
 What I want to do:
