@@ -21,21 +21,10 @@ After all of this, I made a library mod [LibuLib](https://modrinth.com/mod/libu)
 
 **And here we are today.**
 
-## What will I do?
-What I will do:
-- An english version of [my website](https://lumaa.brebond.com)
-- A config library (Like [YACL](https://github.com/isXander/YetAnotherConfigLib))
-- Custom [BackroomsMod Generation](https://trello.com/c/oeXBwsgv)
-
-What I want to do:
-- [Modrinth](https://modrinth.com) Discord bot
-- Music (in general)
-- A game in Unity (C#)
-
 ## Socials
 You can directly click on them.  
 [![Modrinth Username](https://img.shields.io/badge/Modrinth-Lumaa-brightgreen)](https://modrinth.com/user/Lumaa)
-[![Discord Server](https://img.shields.io/discord/1033451342984908900?label=Support%20Discord&logo=discord)](https://discord.gg/Rqpn3C7yR5)
+[![Support Discord Server](https://img.shields.io/discord/1033451342984908900?label=Support%20Discord&logo=discord)](https://lumaa.brebond.com/support)
 [![Discord Tag](https://img.shields.io/badge/Discord%20Tag-Lumaa%234480-5865F2)](https://discordapp.com/users/474231265059405845)
 [![Twitch Username](https://img.shields.io/badge/Twitch-lumaa__dev-blueviolet)](https://twitch.tv/lumaa_dev)
 [![YouTube Handler](https://img.shields.io/badge/YouTube-%40lumaa__dev-red)](https://youtube.com/@lumaa_dev)
