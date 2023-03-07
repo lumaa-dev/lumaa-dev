@@ -22,12 +22,13 @@
 ***
 
 ### Correct Versions
+This board only applies on the latest version of each mods
 
-| Mod \ Version        | 1.19   | 1.19.1  | 1.19.2  | 1.20   |
-|----------------------|--------|---------|---------|--------|
-| The Backrooms        | ❌    | ✔️      | ✔️      | Coming soon      |
-| LibuLib              | ❌    | ✔️      | ✔️      | Coming soon      |
-| Your Name Your Death | ❌    | ✔️*     | ✔️      | Coming soon      | 
+| Mod \ Version        | 1.19   | 1.19.1  | 1.19.2  | 1.19.3   |
+|----------------------|--------|---------|---------|----------|
+| The Backrooms        | ❌    | ❌      | ❌      | ✅       |
+| LibuLib              | ❌    | ❌      | ❌      | ✅       |
+| Your Name Your Death | ❌    | ✔️*     | ✔️      | ❌       |
   
 *`*` maybe works*
 
