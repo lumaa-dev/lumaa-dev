@@ -14,7 +14,7 @@
  
  ![Dependencies](https://user-images.githubusercontent.com/93350976/192139971-3e8bc90e-c04d-4e45-bc01-75143b8c0e83.png)  
 - Install the required dependencies in 1.19.3 if there are.
-  - For this example we need [Fabric API](https://modrinth.com/mod/fabric-api/versions) and **optionally** [Yet Another](https://modrinth.com/mod/yacl/versions)
+  - For this example we need [Fabric API](https://modrinth.com/mod/fabric-api/versions) and **optionally** [Yet Another Config Lib](https://modrinth.com/mod/yacl/versions)
 
 - Launch the Fabric Minecraft without mods once and close Minecraft
 - Go to `.minecraft/mods` and move the mod and the dependencies in it
