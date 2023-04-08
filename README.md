@@ -16,8 +16,10 @@ Then in April 2021, began [Keymey](https://github.com/lumaa-dev/Keymey) as my **
 
 Then around mid-2021, I started web development. As my first web project, I tried recreating Discord as much as I could and called it **Poorcored** (because it's a poor version). I did web dev without actually having a website. I, then, made [my own website](https://lumaa.brebond.com) back in July 2022.
 
-Also in that same period of time, in July 2022. I created [The Backrooms Mod](https://modrinth.com/mod/backrooms), a Fabric Minecraft mod that adds the world of the Backrooms in Minecraft. A few months later, I published it on [GitHub](https://github.com/u-lumaa/BackroomsMod) and [Modrinth](https://modrinth.com/mod/backrooms), and specifically on Modrinth, it blew. Not only we have a 6 months old project being continuously worked on, but we also have 500 downloads on [Modrinth](https://modrinth.com/mod/backrooms)!  
+Also in that same period of time, in July 2022. I created [The Backrooms Mod](https://modrinth.com/mod/backrooms), a Fabric Minecraft mod that adds the world of the Backrooms in Minecraft. A few months later, I published it on [GitHub](https://github.com/lumaa-dev/BackroomsMod) and [Modrinth](https://modrinth.com/mod/backrooms), and specifically on Modrinth, it blew. The mod's stats are sky-rocketing on [Modrinth](https://modrinth.com/mod/backrooms)!  
 After all of this, I made a library mod [LibuLib](https://modrinth.com/mod/libu).
+
+Then around February 2023, I discovered the world of [Vue.JS](https://vuejs.org). It's hard lmao.
 
 **And here we are today.**
 
