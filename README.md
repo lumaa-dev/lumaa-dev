@@ -19,7 +19,12 @@ Then around mid-2021, I started web development. As my first web project, I trie
 Also in that same period of time, in July 2022. I created [The Backrooms Mod](https://modrinth.com/mod/backrooms), a Fabric Minecraft mod that adds the world of the Backrooms in Minecraft. A few months later, I published it on [GitHub](https://github.com/lumaa-dev/BackroomsMod) and [Modrinth](https://modrinth.com/mod/backrooms), and specifically on Modrinth, it blew. The mod's stats are sky-rocketing on [Modrinth](https://modrinth.com/mod/backrooms)!  
 After all of this, I made a library mod [LibuLib](https://modrinth.com/mod/libu).
 
-Then around February 2023, I discovered the world of [Vue.JS](https://vuejs.org). It's hard lmao.
+Then around February 2023, I discovered the world of [Vue.JS](https://vuejs.org). It's complex but I'm still a beginner to this.
+
+Through February to April, there were updates of [The Backrooms Mod](https://modrinth.com/mod/backrooms) and [LibuLib](https://modrinth.com/mod/libu). During April 2023, 3 new projects appeared on my [Modrinth Profile](https://modrinth.com/user/Lumaa) which are:
+- [Act](https://modrinth.com/mod/acts) - Mod to fight loneliness, powered by **Actor AI**
+- [Muppet](https://modrinth.com/mod/muppet) - Mod that adds the player's doll at the top left corner
+- [Unknown SMP](https://modrinth.com/modpack/unknownsmp) - Official modpack of the [Unknown SMP](https://youtube.com/@unknownsmp)
 
 **And here we are today.**
 
