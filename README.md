@@ -5,7 +5,8 @@
   <sup>Developer with an empty head.</sup>
 </div></center>
 
-I have a website, but it's 🇫🇷 French for now: https://lumaa.brebond.com/
+I have a website, but it's 🇫🇷 French for now: https://lumaa.brebond.com/  
+and a "preview" website that is both in 🇫🇷 French and 🇺🇸 English here: https://lumaa-dev.github.io/
 
 ## Who am I?
 I am Lumaa, just a young independent French developer making random things. I also do [YouTube videos](https://youtube.com/@lumaa_dev) and [Twitch streams](https://twitch.tv/lumaa_dev) both in French.
