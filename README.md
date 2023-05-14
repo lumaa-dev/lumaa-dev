@@ -32,7 +32,7 @@ Through February to April, there were updates of [The Backrooms Mod](https://mod
 ## Socials
 You can directly click on them.  
 [![Modrinth Username](https://img.shields.io/badge/Modrinth-Lumaa-brightgreen)](https://modrinth.com/user/Lumaa)
-[![Support Discord Server](https://img.shields.io/discord/1033451342984908900?label=Support%20Discord&logo=discord)](https://lumaa.brebond.com/support)
+[![Support Discord Server](https://img.shields.io/discord/1033451342984908900?label=Support%20Discord&logo=discord)](https://lumaa-dev.github.io/#/support)
 [![Discord Tag](https://img.shields.io/badge/Discord%20Tag-Lumaa%234480-5865F2)](https://discordapp.com/users/474231265059405845)
 [![Twitch Username](https://img.shields.io/badge/Twitch-lumaa__dev-blueviolet)](https://twitch.tv/lumaa_dev)
 [![YouTube Handler](https://img.shields.io/badge/YouTube-%40lumaa__dev-red)](https://youtube.com/@lumaa_dev)
