@@ -1,5 +1,5 @@
 # Install my Fabric mods
-*We will use [The Backrooms Mod](https://github.com/lumaa-dev/BackroomsMod) as an example*
+*We will use [The Backrooms Mod](https://github.com/v-fast/BackroomsMod) as an example*
 
 ***
 
@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/93350976/224516085-4055f40a-b806-4926-8126-5a46b3ce88c5.png" width=600>  
 
-- Install the latest version of my mod on [GitHub](https://github.com/lumaa-dev/BackroomsMod/releases/latest), [Modrinth](https://modrinth.com/mod/backrooms/versions).
+- Install the latest version of my mod on [GitHub](https://github.com/v-fast/BackroomsMod/releases/latest), [Modrinth](https://modrinth.com/mod/backrooms/versions).
   - On Github, click the `.jar` file
   - On Modrinth, click the **Download** button
  
@@ -62,3 +62,4 @@ This board only applies on the **latest version** of each mods
     "devPrefix": "Developper Prefix (to create commands)",
 }
 ```
+There may be other things to add in this file to make a bot work.
