@@ -40,4 +40,4 @@ You can directly click on them.
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)
-![Lumaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lumaa)
+<!-- This doesn't work apparently ![Lumaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lumaa) -->
