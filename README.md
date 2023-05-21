@@ -6,7 +6,7 @@
 </div></center>
 
 I have a website, but it's 🇫🇷 French for now: https://lumaa.brebond.com/  
-and a "preview" website that is both in 🇫🇷 French and 🇺🇸 English here: https://lumaa-dev.github.io/
+and a "preview" website that is both in 🇫🇷 French and 🇺🇸 English here: https://lumaa-dev.github.io/#/
 
 ## Who am I?
 I am Lumaa, just a young independent French developer making random things. I also do [YouTube videos](https://youtube.com/@lumaa_dev) and [Twitch streams](https://twitch.tv/lumaa_dev) both in French.
@@ -27,6 +27,9 @@ Through February to April, there were updates of [The Backrooms Mod](https://mod
 - [Muppet](https://modrinth.com/mod/muppet) - Mod that adds the player's doll at the top left corner
 - [Unknown SMP](https://modrinth.com/modpack/unknownsmp) - Official modpack of the [Unknown SMP](https://youtube.com/@unknownsmp)
 
+During the month of May 2023, I posted a devlog on my [Support Discord](https://lumaa-dev.github.io/#/support) where I asked my members if they volunteered to help me code mods, [Tanish](https://github.com/tanishisherewithhh) DMed me and volunteered to help me, we then created [V-Fast](https://lumaa-dev.github.io/#/v-fast).\
+He worked on [Act](https://modrinth.com/mod/acts) the most, including the entire rewriting of **Actor AI**.
+
 **And here we are today.**
 
 ## Socials
@@ -40,4 +43,3 @@ You can directly click on them.
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)
-<!-- This doesn't work apparently ![Lumaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lumaa) -->
