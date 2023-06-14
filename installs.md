@@ -25,11 +25,11 @@
 ### Correct Versions
 This board only applies on the **latest version** of each mods
 
-|                                                                | 1.19   | 1.19.1  | 1.19.2  | 1.19.3   | 1.19.4   |
-|----------------------------------------------------------------|--------|---------|---------|----------|----------|
-| [The Backrooms Mod](https://modrinth.com/mod/backrooms)        | ❌    | ❌      | ❌      | ❌      | ✅       |
-| [LibuLib](https://modrinth.com/mod/libu)                       | ❌    | ❌      | ❌      | ❌      | ✅       |
-| [USMP Tapes](https://modrinth.com/mod/usmp-tapes)              | ❌    | ❌      | ❌      | ❌      | ✅       |
+|                                                                | 1.19.4    | 1.20       |
+|----------------------------------------------------------------|-----------|------------|
+| [The Backrooms Mod](https://modrinth.com/mod/backrooms)        | ✅        | 🔨        |
+| [LibuLib](https://modrinth.com/mod/libu)                       | ✅        | 🔨        |
+| [USMP Tapes](https://modrinth.com/mod/usmp-tapes)              | ✅        | ⚠️        |
   
 *`*` maybe works*
 
