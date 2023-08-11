@@ -41,5 +41,7 @@ You can directly click on them.
 [![TikTok Username](https://img.shields.io/badge/TikTok-%40lumaa__dev-000)](https://tiktok.com/@lumaa_dev)\
 [lumaa@lumaa.fr](mailto:lumaa@lumaa.fr)
 
+![Discord Status](https://api.statusbadges.me/badge/status/474231265059405845?simple=true) on Discord
+
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)
