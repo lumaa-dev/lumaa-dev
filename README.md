@@ -31,6 +31,11 @@ He worked on [Act](https://modrinth.com/mod/acts) the most, including the entire
 
 And for most of the summer holiday (July-August 2023) I learnt how to do APIs and SQL manipulations using [Express.js](https://expressjs.com). Which I now have an API over on [api.lumaa.fr](https://api.lumaa.fr), there is currently no documentation.
 
+There hasn't been any big coding projects through September 2023, so nothing interesting.\
+But in October 2023, I released my very first iOS App: [TicTac](https://lumaa.fr/tictac). The app is currently available EVERYWHERE, in French and English.
+
+[![TicTac](https://lumaa.fr/static/tictac_image.png)](https://apps.apple.com/us/app/tictac-g%C3%A9rez-votre-temps/id6468402716)
+
 **And here we are today.**
 
 ## Socials
