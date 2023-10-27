@@ -5,7 +5,7 @@
   <sup>Developer with an empty head.</sup>
 </div></center>
 
-I have a website, it's both in 🇺🇸 English and 🇫🇷 French for now: [lumaa.fr](https://lumaa.fr/)
+I have a website, it's both in 🇺🇸 English and 🇫🇷 French for now: [lumaa.fr](https://lumaa.fr/?lang=en)
 
 ## Who am I?
 I am Lumaa, just a young independent French developer making random things. I also do [YouTube videos](https://youtube.com/@lumaa_dev) and [Twitch streams](https://twitch.tv/lumaa_dev) both in French.
@@ -14,7 +14,7 @@ I am Lumaa, just a young independent French developer making random things. I al
 It all starts a few years back, trying to make a Unity game (C#) but miserably failed **multiple times**.  
 Then in April 2021, began [Keymey](https://github.com/lumaa-dev/Keymey) as my **first JavaScript project** and **Discord bot**. I worked on it for a very long time, then did multiple other bots, like [Guildable](https://top.gg/bot/870762638789988422), Bongy and a few others.
 
-Then around mid-2021, I started web development. As my first web project, I tried recreating Discord as much as I could and called it **Poorcored** (because it's a poor version). I did web dev without actually having a website. I, then, made [my own website](https://lumaa.fr/) back in July 2022.
+Then around mid-2021, I started web development. As my first web project, I tried recreating Discord as much as I could and called it **Poorcored** (because it's a poor version). I did web dev without actually having a website. I, then, made [my own website](https://lumaa.fr/?lang=en) back in July 2022.
 
 Also in that same period of time, in July 2022. I created [The Backrooms Mod](https://modrinth.com/mod/backrooms), a Fabric Minecraft mod that adds the world of the Backrooms in Minecraft. A few months later, I published it on [GitHub](https://github.com/lumaa-dev/BackroomsMod) and [Modrinth](https://modrinth.com/mod/backrooms), and specifically on Modrinth, it blew. The mod's stats are sky-rocketing on [Modrinth](https://modrinth.com/mod/backrooms)!  
 After all of this, I made a library mod [LibuLib](https://modrinth.com/mod/libu) which is now discontinued.
@@ -32,9 +32,9 @@ He worked on [Act](https://modrinth.com/mod/acts) the most, including the entire
 And for most of the summer holiday (July-August 2023) I learnt how to do APIs and SQL manipulations using [Express.js](https://expressjs.com). Which I now have an API over on [api.lumaa.fr](https://api.lumaa.fr), there is currently no documentation.
 
 There hasn't been any big coding projects through September 2023, so nothing interesting.\
-But in October 2023, I released my very first iOS App: [TicTac](https://lumaa.fr/tictac). The app is currently available EVERYWHERE, in French and English.
+But in October 2023, I released my very first iOS App: [TicTac](https://lumaa.fr/tictac?lang=en). The app is currently available EVERYWHERE, in French and English. Here is a quick [showcase video](https://youtu.be/eDbPkcXqInE):
 
-[![TicTac](https://lumaa.fr/static/tictac_image.png)](https://apps.apple.com/us/app/tictac-g%C3%A9rez-votre-temps/id6468402716)
+[![TicTac](https://img.youtube.com/vi/eDbPkcXqInE/maxresdefault.jpg)](https://youtu.be/eDbPkcXqInE)
 
 **And here we are today.**
 
