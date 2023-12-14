@@ -36,6 +36,8 @@ But in October 2023, I released my very first iOS App: [TicTac](https://lumaa.fr
 
 [![TicTac](https://img.youtube.com/vi/eDbPkcXqInE/maxresdefault.jpg)](https://youtu.be/eDbPkcXqInE)
 
+November 2023, I listened to music... A ton... Which resulted in the creation in [ByHeart](https://apps.lumaa.fr/app/byheart). An app all about music and its knowledge.
+
 **And here we are today.**
 
 ## Socials
