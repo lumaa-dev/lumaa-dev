@@ -5,7 +5,7 @@
   <sup>Developer with an empty head.</sup>
 </div></center>
 
-I have a website, it's both in 🇺🇸 English and 🇫🇷 French for now: [lumaa.fr](https://lumaa.fr/?lang=en)
+I have a website in 🇺🇸 English with all my socials: [lumaa.fr](https://lumaa.fr/?lang=en)
 
 ## Who am I?
 I am Lumaa, just a young independent French developer making random things. I also do [YouTube videos](https://youtube.com/@lumaa_dev) and [Twitch streams](https://twitch.tv/lumaa_dev) both in French.
@@ -38,13 +38,16 @@ But in October 2023, I released my very first iOS App: [TicTac](https://lumaa.fr
 
 November 2023, I listened to music... A ton... Which resulted in the creation in [ByHeart](https://apps.lumaa.fr/app/byheart). An app all about music and its knowledge.
 
+Kept this project under my wing, and to create a Mastodon client... which I announced a little before New Year's, called [#Threaded](https://apps.lumaa.fr/app/threaded) (The hashtag is not included). It uses code from [IceCubesApp](https://github.com/Dimillian/IceCubesApp) made by [@Dimillian](https://github.com/Dimillian).
+
 **And here we are today.**
 
 ## Socials
-You can directly click on them.  
+You can directly click on them.\
+[![Static Badge](https://img.shields.io/badge/Mastodon-%40lumaa%40techhub.social-%236364ff)](https://techhub.social/@lumaa)
+[![Static Badge](https://img.shields.io/badge/Threads-%40lumaa__dev%40techhub.social-%23101010)](https://threads.net/@lumaa_dev)\
 [![Modrinth Username](https://img.shields.io/badge/Modrinth-Lumaa-brightgreen)](https://modrinth.com/user/Lumaa)
-[![Support Discord Server](https://img.shields.io/discord/1033451342984908900?label=Support%20Discord&logo=discord)](https://lumaa.fr/support)
-[![Discord Tag](https://img.shields.io/badge/Discord%20Handle-%40lumaa__dev-5865F2)](https://discordapp.com/users/474231265059405845)
+[![Discord Tag](https://img.shields.io/badge/Discord%20Handle-%40lumaa__dev-5865F2)](https://discordapp.com/users/474231265059405845)\
 [![Twitch Username](https://img.shields.io/badge/Twitch-lumaa__dev-blueviolet)](https://twitch.tv/lumaa_dev)
 [![YouTube Handler](https://img.shields.io/badge/YouTube-%40lumaa__dev-red)](https://youtube.com/@lumaa_dev)
 [![TikTok Username](https://img.shields.io/badge/TikTok-%40lumaa__dev-000)](https://tiktok.com/@lumaa_dev)\
