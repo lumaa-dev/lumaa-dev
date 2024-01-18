@@ -44,8 +44,8 @@ Kept this project under my wing, and to create a Mastodon client... which I anno
 
 ## Socials
 You can directly click on them.\
-[![Static Badge](https://img.shields.io/badge/Mastodon-%40lumaa%40techhub.social-%236364ff)](https://techhub.social/@lumaa)
-[![Static Badge](https://img.shields.io/badge/Threads-%40lumaa__dev%40techhub.social-%23101010)](https://threads.net/@lumaa_dev)\
+[![Mastodon Acct](https://img.shields.io/badge/Mastodon-%40lumaa%40techhub.social-%236364ff)](https://techhub.social/@lumaa)
+[![Threads Username](https://img.shields.io/badge/Threads-%40lumaa__dev-%23101010)](https://threads.net/@lumaa_dev)\
 [![Modrinth Username](https://img.shields.io/badge/Modrinth-Lumaa-brightgreen)](https://modrinth.com/user/Lumaa)
 [![Discord Tag](https://img.shields.io/badge/Discord%20Handle-%40lumaa__dev-5865F2)](https://discordapp.com/users/474231265059405845)\
 [![Twitch Username](https://img.shields.io/badge/Twitch-lumaa__dev-blueviolet)](https://twitch.tv/lumaa_dev)
