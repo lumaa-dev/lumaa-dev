@@ -1,8 +1,7 @@
 <center><div align="center">
-  <img width="150" src="https://lumaa.fr/img/char.15a21fae.png" />
+  <img width="150" src="https://lumaa.fr/static/icon_lumaa_white.svg" />
   <h1>Lumaa</h1>
-  <h3>Développeur avec la tête vide.</h3>  
-  <sup>Developer with an empty head.</sup>
+  <h3>A new direction.</h3>
 </div></center>
 
 I have a website in 🇺🇸 English with all my socials: [lumaa.fr](https://lumaa.fr/?lang=en)
