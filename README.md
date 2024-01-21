@@ -1,5 +1,5 @@
 <center><div align="center">
-  <img width="150" src="https://lumaa.fr/static/icon_lumaa_white.svg" />
+  <img width="150" src="https://lumaa.fr/static/hero_lumaa_white.svg" />
   <h1>Lumaa</h1>
   <h3>A new direction.</h3>
 </div></center>
