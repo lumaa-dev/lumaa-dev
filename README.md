@@ -4,6 +4,9 @@
   <h3>A new direction.</h3>
 </div></center>
 
+> [!NOTE]
+> The app is currently being tested on TestFlight and will be hitting the App Store later this year.
+
 I have a website in 🇺🇸 English with all my socials: [lumaa.fr](https://lumaa.fr/?lang=en)
 
 ## Who am I?
@@ -38,6 +41,8 @@ But in October 2023, I released my very first iOS App: [TicTac](https://lumaa.fr
 November 2023, I listened to music... A ton... Which resulted in the creation in [ByHeart](https://apps.lumaa.fr/app/byheart). An app all about music and its knowledge.
 
 Kept this project under my wing, and to create a Mastodon client... which I announced a little before New Year's, called [#Threaded](https://apps.lumaa.fr/app/threaded) (The hashtag is not included). It uses code from [IceCubesApp](https://github.com/Dimillian/IceCubesApp) made by [@Dimillian](https://github.com/Dimillian).
+
+In March 2024, I create my [read.cv](https://read.cv/lumaa), with a lot of details about my past projects and current.
 
 **And here we are today.**
 
