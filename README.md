@@ -4,9 +4,6 @@
   <h3>A new direction.</h3>
 </div></center>
 
-> [!NOTE]
-> The app is currently being tested on TestFlight and will be hitting the App Store later this year.
-
 I have a website in 🇺🇸 English with all my socials: [lumaa.fr](https://lumaa.fr/?lang=en)
 
 ## Who am I?
