@@ -43,18 +43,8 @@ In March 2024, I create my [read.cv](https://read.cv/lumaa), with a lot of detai
 
 **And here we are today.**
 
-## Socials
-You can directly click on them.\
-[![Mastodon Acct](https://img.shields.io/badge/Mastodon-%40lumaa%40techhub.social-%236364ff)](https://techhub.social/@lumaa)
-[![Threads Username](https://img.shields.io/badge/Threads-%40lumaa__dev-%23101010)](https://threads.net/@lumaa_dev)\
-[![Modrinth Username](https://img.shields.io/badge/Modrinth-Lumaa-brightgreen)](https://modrinth.com/user/Lumaa)
-[![Discord Tag](https://img.shields.io/badge/Discord%20Handle-%40lumaa__dev-5865F2)](https://discordapp.com/users/474231265059405845)\
-[![Twitch Username](https://img.shields.io/badge/Twitch-lumaa__dev-blueviolet)](https://twitch.tv/lumaa_dev)
-[![YouTube Handler](https://img.shields.io/badge/YouTube-%40lumaa__dev-red)](https://youtube.com/@lumaa_dev)
-[![TikTok Username](https://img.shields.io/badge/TikTok-%40lumaa__dev-000)](https://tiktok.com/@lumaa_dev)\
-[lumaa@lumaa.fr](mailto:lumaa@lumaa.fr)
 
+
+# Badges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)\
 ![Discord Status](https://api.statusbadges.me/badge/status/474231265059405845?simple=true) on Discord
-
-# Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)
