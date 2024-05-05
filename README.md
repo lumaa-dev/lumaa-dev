@@ -20,18 +20,18 @@ After all of this, I made a library mod [LibuLib](https://modrinth.com/mod/libu)
 
 Then around February 2023, I discovered the world of [Vue.JS](https://vuejs.org). It's complex but I'm still a beginner to this.
 
-Through February to April, there were updates of [The Backrooms Mod](https://modrinth.com/mod/backrooms) and [LibuLib](https://modrinth.com/mod/libu). During April 2023, 3 new projects appeared on my [Modrinth Profile](https://modrinth.com/user/Lumaa) which are:
+Through February to April, there were updates of [The Backrooms Mod](https://modrinth.com/mod/backrooms) and [LibuLib](https://modrinth.com/mod/libu). During April 2023, a few new projects appeared on my [Modrinth Profile](https://modrinth.com/user/Lumaa) which are:
 - [Act](https://modrinth.com/mod/acts) - Mod to fight loneliness, powered by **Actor AI**
 - [Muppet](https://modrinth.com/mod/muppet) - Mod that adds the player's doll at the top left corner
-- [Unknown SMP](https://modrinth.com/modpack/unknownsmp) - Official modpack of the [Unknown SMP](https://youtube.com/@unknownsmp)
+<!-- - [Unknown SMP](https://modrinth.com/modpack/unknownsmp) - Official modpack of the [Unknown SMP](https://youtube.com/@unknownsmp) -->
 
 During the month of May 2023, I posted a devlog on my [Support Discord](https://lumaa.fr/support) where I asked my members if they volunteered to help me code mods, [Tanish](https://github.com/tanishisherewithhh) DMed me and volunteered to help me, we then created [V-Fast](https://lumaa.fr/v-fast).\
 He worked on [Act](https://modrinth.com/mod/acts) the most, including the entire rewriting of **Actor AI**.
 
-And for most of the summer holiday (July-August 2023) I learnt how to do APIs and SQL manipulations using [Express.js](https://expressjs.com). Which I now have an API over on [api.lumaa.fr](https://api.lumaa.fr), there is currently no documentation.
+And for most of the summer holiday (July-August 2023) I learnt how to do APIs and SQL manipulations using [Express.js](https://expressjs.com). Which I now have an API over on [api.lumaa.fr](https://api.lumaa.fr).
 
 There hasn't been any big coding projects through September 2023, so nothing interesting.\
-But in October 2023, I released my very first iOS App: [TicTac](https://lumaa.fr/tictac?lang=en). The app is currently available EVERYWHERE, in French and English. Here is a quick [showcase video](https://youtu.be/eDbPkcXqInE):
+But in October 2023, I released my very first iOS App: [TicTac](https://apps.lumaa.fr/app/tictac). The app is currently available EVERYWHERE, in French and English. Here is a quick [showcase video](https://youtu.be/eDbPkcXqInE):
 
 [![TicTac](https://img.youtube.com/vi/eDbPkcXqInE/maxresdefault.jpg)](https://youtu.be/eDbPkcXqInE)
 
@@ -42,8 +42,6 @@ Kept this project under my wing, and to create a Mastodon client... which I anno
 In March 2024, I create my [read.cv](https://read.cv/lumaa), with a lot of details about my past projects and current.
 
 **And here we are today.**
-
-
 
 # Badges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)\
