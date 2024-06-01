@@ -59,7 +59,7 @@ In March 2024, I create my [read.cv](https://read.cv/lumaa), with a lot of detai
 
 The following month, I published [NumMemory](https://apps.lumaa.fr/app/nummemory) on the App Store. It's an app about remembering any number you choose, it could be a credit card number, a pin code, a phone number... Anything!
 
-In May 2024, I launched my [newsletter](https://lumaa.substack.com/) powered by Substack. This allowed me to [announce](https://lumaa.substack.com/p/new-project-artisticly) in depth my new project: [Artisticly](https://github.com/lumaa-dev/ArtisticlyClient), which is a music client powered by [its own server](https://github.com/lumaa-dev/ArtisticlyServer). I'm also currently working on a *Super Secret Project™* with a team of developers...
+In May 2024, I launched my [newsletter](https://lumaa.substack.com/) powered by Substack. This allowed me to [announce](https://lumaa.substack.com/p/new-project-artisticly) in depth my new project: [Artisticly](https://apps.lumaa.fr/app/artisticly), which is a music client powered by [its own server](https://github.com/lumaa-dev/ArtisticlyServer). I'm also currently working on a *Super Secret Project™* with a team of developers...
 
 **And here we are today.**
 
