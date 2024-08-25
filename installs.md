@@ -25,11 +25,9 @@
 ### Correct Versions
 This board only applies on the **latest version** of each mods
 
-|                                                                | 1.19.4    | 1.20       |
+|                                                                | <1.21     | 1.21+      |
 |----------------------------------------------------------------|-----------|------------|
-| [The Backrooms Mod](https://modrinth.com/mod/backrooms)        | ✅        | 🔨        |
-| [LibuLib](https://modrinth.com/mod/libu)                       | ✅        | 🔨        |
-| [USMP Tapes](https://modrinth.com/mod/usmp-tapes)              | ✅        | ⚠️        |
+| [The Backrooms Mod](https://modrinth.com/mod/backrooms)        | ❌        | ✅        |
   
 *`*` maybe works*
 
