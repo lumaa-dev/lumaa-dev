@@ -4,7 +4,7 @@
   <h3>A new direction.</h3>
 </div></center>
 
-I have a website in 🇺🇸 English with various informations: [lumaa.fr](https://lumaa.fr/)
+I have a website in 🇺🇸 English with various links: [lumaa.fr](https://lumaa.fr/)
 
 ## Who am I?
 I am Lumaa, just a young independent French developer making random things. I also do [YouTube videos](https://youtube.com/@lumaa_dev) and [Twitch streams](https://twitch.tv/lumaa_dev) both in French, *for fun*. But I also have a YouTube channel made for [professinal stuff](https://youtube.com/@Lumaa_PRO).
@@ -60,6 +60,10 @@ In March 2024, I create my [read.cv](https://read.cv/lumaa), with a lot of detai
 The following month, I published [NumMemory](https://apps.lumaa.fr/app/nummemory) on the App Store. It's an app about remembering any number you choose, it could be a credit card number, a pin code, a phone number... Anything!
 
 In May 2024, I launched my [newsletter](https://lumaa.substack.com/) powered by Substack. This allowed me to [announce](https://lumaa.substack.com/p/new-project-artisticly) in depth my new project: [Artisticly](https://apps.lumaa.fr/app/artisticly), which is a music client powered by [its own server](https://github.com/lumaa-dev/ArtisticlyServer). I'm also currently working on a *Super Secret Project™* with a team of developers...
+
+The [Threaded](https://apps.lumaa.fr/app/threaded) app released on July 10th, 2024 on the [iOS App Store](https://apps.apple.com/us/app/threaded/id6477757490), as well as the 1.1.0 update later in July...
+
+On August 25th, 2024, me and [PatateGivrée](https://youtube.com/@patategivree) released a stable version for [The Backrooms Mod](https://modrinth.com/mod/backrooms) thanks to Bob Mazza dropping all of the pictures of original Backrooms place, which a [HobbyTown](https://www.hobbytown.com/oshkosh-wi/l69) owned by the same person.
 
 **And here we are today.**
 
