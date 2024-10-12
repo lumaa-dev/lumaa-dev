@@ -53,7 +53,7 @@ But in October 2023, I released my very first iOS App: [TicTac](https://apps.lum
 November 2023, I listened to music... A ton... Which resulted in the creation in [ByHeart](https://apps.lumaa.fr/app/byheart). An app all about music and its knowledge.
 
 ### 2024
-Kept this project under my wing, and to create a Mastodon client... which I announced a little before New Year's, called [#Threaded](https://apps.lumaa.fr/app/threaded) (The hashtag is not included). It uses code from [IceCubesApp](https://github.com/Dimillian/IceCubesApp) made by [@Dimillian](https://github.com/Dimillian).
+Kept this project under my wing, and to create a Mastodon client... which I announced a little before New Year's, called [#Threaded](https://apps.lumaa.fr/app/bubble) (*Now called Bubble*). It uses code from [IceCubesApp](https://github.com/Dimillian/IceCubesApp) made by [@Dimillian](https://github.com/Dimillian).
 
 In March 2024, I create my [read.cv](https://read.cv/lumaa), with a lot of details about my past projects and current.
 
@@ -61,9 +61,13 @@ The following month, I published [NumMemory](https://apps.lumaa.fr/app/nummemory
 
 In May 2024, I launched my [newsletter](https://lumaa.substack.com/) powered by Substack. This allowed me to [announce](https://lumaa.substack.com/p/new-project-artisticly) in depth my new project: [Artisticly](https://apps.lumaa.fr/app/artisticly), which is a music client powered by [its own server](https://github.com/lumaa-dev/ArtisticlyServer). I'm also currently working on a *Super Secret Project™* with a team of developers...
 
-The [Threaded](https://apps.lumaa.fr/app/threaded) app released on July 10th, 2024 on the [iOS App Store](https://apps.apple.com/us/app/threaded/id6477757490), as well as the 1.1.0 update later in July...
+The [Threaded](https://apps.lumaa.fr/app/bubble) app (*Now called Bubble*) released on July 10th, 2024 on the [iOS App Store](https://apps.apple.com/us/app/bubble/id6477757490), as well as the 1.1.0 update later in July...
 
 On August 25th, 2024, me and [PatateGivrée](https://youtube.com/@patategivree) released a stable version for [The Backrooms Mod](https://modrinth.com/mod/backrooms) thanks to Bob Mazza dropping all of the pictures of original Backrooms place, which a [HobbyTown](https://www.hobbytown.com/oshkosh-wi/l69) owned by the same person.
+
+Due to legal reasons, Threaded had to change its name to something else ([Source](https://darnell.day/instagram-to-threaded-for-mastodon-lawyer-up-or-change-your-name)), now being [Bubble](https://apps.lumaa.fr/app/bubble)! This allowed Bubble to get its own visual style, and also allowed Bubble to get a full collaboration with [sub.club](https://sub.club/)!
+
+After [a quick poll on Mastodon](https://techhub.social/@lumaa/113200034472879785), I started the [WidgAround](https://techhub.social/@lumaa/113214624051110745) app, a direct competitor to Widgetsmith!
 
 **And here we are today.**
 
