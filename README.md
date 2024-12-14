@@ -23,6 +23,7 @@ I am Lumaa, just a young independent French developer making random things. I al
 - [Premise](#premise)
 - [2023](#2023)
 - [2024](#2024)
+- [2025](#2025)
 
 ### Premise
 It all starts a few years back, trying to make a Unity game (C#) but miserably failed **multiple times**.  
@@ -65,11 +66,20 @@ The [Threaded](https://apps.lumaa.fr/app/bubble) app (*Now called Bubble*) relea
 
 On August 25th, 2024, me and [PatateGivrée](https://youtube.com/@patategivree) released a stable version for [The Backrooms Mod](https://modrinth.com/mod/backrooms) thanks to Bob Mazza dropping all of the pictures of original Backrooms place, which a [HobbyTown](https://www.hobbytown.com/oshkosh-wi/l69) owned by the same person.
 
-Due to legal reasons, Threaded had to change its name to something else ([Source](https://darnell.day/instagram-to-threaded-for-mastodon-lawyer-up-or-change-your-name)), now being [Bubble](https://apps.lumaa.fr/app/bubble)! This allowed Bubble to get its own visual style, and also allowed Bubble to get a full collaboration with [sub.club](https://sub.club/)!
+Due to legal reasons, Threaded had to change its name to something else ([Source](https://apps.lumaa.fr/legal/threaded)), now being [Bubble](https://apps.lumaa.fr/app/bubble)! This allowed Bubble to get its own visual style, and also allowed Bubble to get a full collaboration with [sub.club](https://sub.club/)!\
+![Threaded_to_Bubble](https://github.com/user-attachments/assets/399c984a-f1c7-430c-9521-0e0b5a832c77)
 
 After [a quick poll on Mastodon](https://techhub.social/@lumaa/113200034472879785), I started the [WidgAround](https://techhub.social/@lumaa/113214624051110745) app, a direct competitor to Widgetsmith!
 
+In between, in November and December 2024, [Bluesky](https://bsky.app/) started getting more traction due to the Twitter blocking policies changing, so I planned a new project, a new Bluesky client. While also working on the biggest Bubble update, v1.4.0, that fixed a lot of bugs, media control, quote posts, and so much more. I made big changes to [Cider Remote](https://cider.sh/remote) as well as its website to display content I added.\
+I also worked on other private projects with deep functionnalities like using the [Vision framework](https://developer.apple.com/documentation/Vision), or like the [Core Motion framework](https://developer.apple.com/documentation/CoreMotion).
+
+Bubble+ finally released with v1.4.1 on December, 11th 2024. It currently has 3 subscriptions, monthly, 3 months, and a yearly option. All of the prices can be found [here in USD](https://apps.lumaa.fr/app/bubble).
+
 **And here we are today.**
+
+### 2025
+A few weeks left before 2025.
 
 # Badges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)\
