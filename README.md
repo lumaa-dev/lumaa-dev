@@ -66,7 +66,7 @@ The [Threaded](https://apps.lumaa.fr/app/bubble) app (*Now called Bubble*) relea
 
 On August 25th, 2024, me and [PatateGivrée](https://youtube.com/@patategivree) released a stable version for [The Backrooms Mod](https://modrinth.com/mod/backrooms) thanks to Bob Mazza dropping all of the pictures of original Backrooms place, which a [HobbyTown](https://www.hobbytown.com/oshkosh-wi/l69) owned by the same person.
 
-Due to legal reasons, Threaded had to change its name to something else ([Source](https://apps.lumaa.fr/legal/threaded)), now being [Bubble](https://apps.lumaa.fr/app/bubble)! This allowed Bubble to get its own visual style, and also allowed Bubble to get a full collaboration with [sub.club](https://sub.club/)!\
+Due to legal reasons, Threaded had to change its name to something else ([Source](https://apps.lumaa.fr/legal/threaded)), now being [Bubble](https://apps.lumaa.fr/app/bubble)! This allowed Bubble to get its own visual style, and also allowed Bubble to get a full collaboration with *sub.club*! (Which has [shut down in January 2025](https://mastodon.social/@subclub/113799617557146071))\
 ![Threaded_to_Bubble](https://github.com/user-attachments/assets/399c984a-f1c7-430c-9521-0e0b5a832c77)
 
 After [a quick poll on Mastodon](https://techhub.social/@lumaa/113200034472879785), I started the [WidgAround](https://techhub.social/@lumaa/113214624051110745) app, a direct competitor to Widgetsmith!
@@ -76,10 +76,10 @@ I also worked on other private projects with deep functionnalities like using th
 
 Bubble+ finally released with v1.4.1 on December, 11th 2024. It currently has 3 subscriptions, monthly, 3 months, and a yearly option. All of the prices can be found [here in USD](https://apps.lumaa.fr/app/bubble).
 
-**And here we are today.**
-
 ### 2025
-A few weeks left before 2025.
+Beginning the year with a HUGE announcement. [**Record Link**](https://apps.lumaa.fr/app/recordlink), an upcoming service to allow every one of your closest friends, your family members, or any one, to share music whatever the platform you use. Whether it's Spotify® or Apple Music®, for free.
+
+As well as a small Bubble update to say bye bye to *sub.club*, my first (and currently last) collaborators.
 
 # Badges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaa-dev)\
