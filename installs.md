@@ -25,9 +25,9 @@
 ### Correct Versions
 This board only applies on the **latest version** of each mods
 
-|                                                                | <1.21     | 1.21+      |
-|----------------------------------------------------------------|-----------|------------|
-| [The Backrooms Mod](https://modrinth.com/mod/backrooms)        | ❌        | ✅        |
+|                                                                | <1.21     | 1.21-1.21.1  | 1.21.2+ |
+|----------------------------------------------------------------|-----------|--------------|---------|
+| [The Backrooms Mod](https://modrinth.com/mod/backrooms)        | ❌        | ✅           | ❌     | 
   
 *`*` maybe works*
 
